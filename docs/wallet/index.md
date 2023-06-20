@@ -40,7 +40,7 @@ CeloWallet is a lightweight, mobile-friendly wallet for both web and desktop. It
 ### Celo Terminal
 
 Celo Terminal is a wallet and DApp platform. It aims to be a hub for installing and running Celo DApps locally on your desktop.
-
+Jumptask wallet
 - [celoterminal.com](https://celoterminal.com)
 - Platforms: MacOS, Linux, Windows
 - Maintainers: [WOTrust](https://twitter.com/wotrust1)
